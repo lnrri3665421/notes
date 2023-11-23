@@ -36,3 +36,6 @@ Another important aspect of programming wise is writing clean and efficient code
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the importance of creating user-friendly and robust software, as well as the ongoing challenge developers face in anticipating and accommodating user behavior. It also emphasizes the need for continuous learning and improvement in the field of programming to stay ahead in this race.
+
+# 2023-11-23
+- "Programming wisdom for today: Always comment your code. Not only does it help you remember what you did, but it also makes it easier for others to understand and work with your code in the future."
