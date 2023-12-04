@@ -87,3 +87,8 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger projects into smaller, manageable tasks. By doing this, you can better track your progress and make adjustments as needed.
 
 Remember to take breaks throughout the day to clear your mind and refocus. Avoid multitasking as much as possible, as it can be distracting and reduce your efficiency. Instead, focus solely on one task at a time to ensure the best possible outcome. Finally, use version control and documentation to keep your code organized and easy to maintain. With these tips, your coding skills will continue to grow and improve.
+
+# 2023-12-04
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and prioritize them. Then, break down each task into smaller, manageable steps. By planning ahead and staying organized, you can avoid last-minute panic and ensure that your projects are completed on time.
+
+To stay organised, use task management tools like Trello, Asana, or Todoist to track your progress. These tools will helps you visualize your tasks in a clear and concise manner, making it easier to stay on track. Additionally, make sure to set reminders and deadlines for each tasks to ensure you stay focused and on schedule.
