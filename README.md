@@ -105,3 +105,6 @@ Next, wisely plan and allocate your timetime. Set aside specific blocks of time 
 
 # 2023-12-07
 - Today's programming wisdom is to always assume that your code will be read by someone else, even if you are the only person working on the project. Writing clear and concise code with meaningful variable names, comments, and documentation can save time and prevent headaches for both yourself and others in the future. It's also important to keep in mind that coding is a collaborative effort and teamwork is key to creating successful software.
+
+# 2023-12-08
+- Today's programming wisdom is to always keep your code clean, simple and maintainable. Avoid writing complex and convoluted code that is difficult to understand and modify. Remember that code is read far more often than it is written, so strive to make it as readable and understandable as possible. Use meaningful variable names, write clear comments, and follow established coding conventions. And finally, don't forget to test your code thoroughly to ensure it works as intended.
