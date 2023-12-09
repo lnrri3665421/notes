@@ -108,3 +108,8 @@ Next, wisely plan and allocate your timetime. Set aside specific blocks of time 
 
 # 2023-12-08
 - Today's programming wisdom is to always keep your code clean, simple and maintainable. Avoid writing complex and convoluted code that is difficult to understand and modify. Remember that code is read far more often than it is written, so strive to make it as readable and understandable as possible. Use meaningful variable names, write clear comments, and follow established coding conventions. And finally, don't forget to test your code thoroughly to ensure it works as intended.
+
+# 2023-12-09
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that while optimizing code for efficiency is important, it should not be done too early in the development process. It's better to first write clear and understandable code that works correctly, and then optimize only if necessary. Focusing too much on optimization from the beginning can lead to overly complex code that is difficult to maintain and debug.
