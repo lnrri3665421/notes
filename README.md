@@ -144,3 +144,8 @@ First, prioritize your tasks. When you are working on a project, it is essential
 Next, planning ahead is crucial. Before beginning a new project or tackling a complex problem, take some time to plan your approach. Think about the different solutions you could try and the potential pitfalls to avoid. Creating a detailed plan will not only help to guide your workflow but also serve as a reference point as you progress through the task. Be sure to update your plan as your understanding of a problem or project changes.  
 - ---
 Finally, staying organized is vital. As you work on projects, ensure your code is well-organized and structured. Following best practices, like using version control systems (like Git) and adopting a consistent coding style, will make it easier to work with your teammates and contribute to larger projects. Additionally, keep your environment tidy and organized, which will reduce the risk of making mistakes and improve your overall efficiency.
+
+# 2023-12-15
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and wasted time. It's often better to write clear, simple code first and optimize only when necessary, based on profiling and measurement.
