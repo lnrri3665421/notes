@@ -181,3 +181,10 @@ This quote reminds us that while optimizing code for efficiency is important, it
 
 # 2023-12-25
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Write code that is easy to read, understand, and maintain. Avoid unnecessary complexity and always strive to keep your codebase clean and modular. Remember, code is read far more often than it is written, so prioritize clarity and readability over cleverness."
+
+# 2023-12-26
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the most critical aspects of the project first. It also helps to break down larger tasks into smaller, more manageable pieces, so that they can easily be accomplished in a timely manner. 
+2. Plan ahead: Planning is crucial when it comes to programming. Knowing what you want to achieve and how you plan to accomplish it can save you time and frustration later on. Create a detailed plan, including milestones and deadlines, to ensure you stay on track and don't get derailed by unforeseen obstacles. Planning also includes considering potential issues and challenges that may arise during the development process, as well as potential solutions to these problems.  
+3. Stay organized: Keeping your code, project files, notes, etc. organized is a must if you hope to stay sane and efficient as a programmer. Use version control systems, such as Git, for your source code to keep track of changes and collaborate with others on your team. Organize your project folders and files logically, using meaningful names and file structures. Additionally, take notes throughout the coding process and organize them in dedicated notebooks or documentations, making it easy to find and refer to them when needed.
