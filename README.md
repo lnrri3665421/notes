@@ -431,3 +431,12 @@ In essence, this encapsulates the idea that great programmers value clarity and 
 - Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means understanding the principles of software development and design, as well as the best practices for writing efficient, maintainable,and scalable code.
 
 To achieve this, you should focus on problem-solving and critical thinking skills, which will help you adapt to new challenges and develop innovative solutions. Additionally, it' s important to understand the importance of collaboration and communication, working closely with teammates and stakeholders to deliver the highest-quality products. Finally, don't forget to take care of your mental and physical health, making sure you have enough rest, exercise, nutrition, time for personal interests, or family and friends. By doing so, not only will you become a better programmer but also a happier and more fulfilled person.
+
+# 2024-02-20
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
+ ---
+其次，明智地计划你的时间。在编程时，合理安排时间至关重要。你可以使用番茄工作法（Pomodoro Technique）来提高时间管理能力。这种方法包括25分钟的高效率工作，然后休息5分钟的循环。这有助于保持注意力并提高工作效率。
+----
+最后，保持组织。一个整洁、有组织的代码库可以帮助你更快地找到问题并解决问题。使用版本控制系统（如Git）可以帮助你在整个项目过程中跟踪代码更改。定期审查代码，确保其遵循最佳实践和编码标准。这将有助于提高代码质量，减少错误，并使你的代码更易于维护。
